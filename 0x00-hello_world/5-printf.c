@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Print a string
- * description: use printf
+ *
+ * Description: use printf
+ *
  * Return: 0
  */
 

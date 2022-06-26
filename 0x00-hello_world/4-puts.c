@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
- * description: put "\"Programming is like building a multilingual puzzle"
+ *
+ * Description: put "\"Programming is like building a multilingual puzzle"
+ *
  * Return: 0
  */
 
