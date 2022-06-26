@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: put "\"Programming is like building a multilingual puzzle"
+ * Description: puts "\"Programming is like building a multilingual puzzle"
  *
  * Return: 0
  */
