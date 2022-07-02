@@ -4,7 +4,6 @@
  * main - main block
  * Description: Write a program that prints all possible
  * different combinations of two digits
- * Return: 0
  */
 int main(void)
 {
@@ -46,5 +45,4 @@ while (f < 10)
 	f++;
 }
 putchar('\n');
-return (0);
 }
