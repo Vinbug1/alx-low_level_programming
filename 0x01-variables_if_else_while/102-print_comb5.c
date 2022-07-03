@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -46,5 +47,5 @@ while (f < 10)
 	f++;
 }
 putchar('\n');
-return(0);
+return (0);
 }
