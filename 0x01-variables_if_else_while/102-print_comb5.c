@@ -46,5 +46,5 @@ while (f < 10)
 	f++;
 }
 putchar('\n');
-return ();
+return(0);
 }
