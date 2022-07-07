@@ -1,5 +1,4 @@
 #include "main.h"
-
 /** 
 * main - Entery point
 * Description:  prints '_putchar \n'
