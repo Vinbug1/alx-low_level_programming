@@ -1,10 +1,10 @@
 #include "main.h"
 /** 
- * main - Entery point
- * Description:  prints '_putchar \n'
- * Return: Always 0 (success)
- */
- int main(void)
+* main - Entery point
+* Description:  prints '_putchar \n'
+* Return: Always 0 (success)
+*/
+int main(void)
  {
      char str[] = "_putchar\n"; 
      int i = 0; 
