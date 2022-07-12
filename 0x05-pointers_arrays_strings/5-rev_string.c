@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 
 void rev_string(char *s)
 {
@@ -20,8 +21,4 @@ void rev_string(char *s)
 
     puts(s);   
 
-}
-
-int main(void){
-    rev_string("123456");
 }
