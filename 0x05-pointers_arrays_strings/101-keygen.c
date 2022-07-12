@@ -1,4 +1,3 @@
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -23,9 +22,6 @@
 * be generated
 * Function Call
 */
-  
-
-
 void randomPasswordGeneration(int N)
 {
     int i = 0;
